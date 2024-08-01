@@ -1,0 +1,43 @@
+.fa-instagram{
+    font-size: 25px;
+    color: blueviolet;
+}
+.icon{
+    text-decoration: none;
+}
+.fa-linkedin{
+    font-size: 25px;
+    color: blue;
+}
+.fa-whatsapp{
+    font-size: 25px;
+    color: green;
+}
+.icu{
+    display: inline;
+    padding: 20px;
+    position: relative;
+    top: 5px;
+}
+.div2{
+    position: absolute;
+    bottom: 20px;
+    left: 470px;
+}
+.fa-house-user{
+    font-size: 25px;
+    color:black;
+    
+}
+.img{
+    position: absolute;
+    right: 365px;
+    top: 50px;
+}
+.for{
+    z-index: 2;
+    border: 1px solid black;
+}
+.img{
+    z-index: -1;
+}

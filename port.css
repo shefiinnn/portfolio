@@ -1,0 +1,89 @@
+.div1{
+    background-size: cover;
+    width: 1000px;
+    margin-left: 120px;
+    margin-top: 10px;
+    
+    background-color: black;
+    border-radius: 300px;
+    
+    
+
+}
+.div1 a:hover,.div1 a:active{
+    background:#00ff84;
+  }
+.div2{
+    padding-top: 40px;
+    
+    
+   
+}
+.div3{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.p2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+.ic{
+    display: inline;
+    padding: 20px;
+}
+.fa-instagram{
+    font-size: 25px;
+    color: blueviolet;
+}
+.icon{
+    text-decoration: none;
+}
+.fa-linkedin{
+    font-size: 25px;
+    color: blue;
+}
+.fa-whatsapp{
+    font-size: 25px;
+    color: green;
+}
+.icu{
+    display: inline;
+    padding: 20px;
+    position: relative;
+    top: 5px;
+}
+.about{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+.fa-code{
+    font-size: 25px;
+    color:chocolate
+}
+.fa-database{
+    font-size: 25px;
+    color: blue;
+}
+.fa-shield-halved{
+    font-size: 25px;
+    color: red;
+}
+.sticky{
+    top: 0px;
+    width: 350px;
+    height: 500px;
+    position: fixed;
+    padding-top: 60px;
+    
+    
+    
+} 
